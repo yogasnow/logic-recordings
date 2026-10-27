@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | Am Dialogue — Leitmotif Mix 01 | [MP3 · 1:19](tracks/01-am-dialogue/audio.mp3) | [Открыть](tracks/01-am-dialogue/README.md) |
 | Velvet and Sky — Three Minute Ascent | [MP3 · 3:03](tracks/02-velvet-and-sky/audio.mp3) | [Открыть](tracks/02-velvet-and-sky/README.md) |
-| Water Gling — «Вода мерцает» | Экспорт ещё не получен | [Открыть](tracks/03-water-gling/README.md) |
+| water glints — «Вода мерцает» | Экспорт ещё не получен | [Открыть](tracks/03-water-glints/README.md) |
 
 В карточках оставлены поля для авторского объяснения: форма, размер и ритм, знаки альтерации, гармония и аккорды по тактам. Пока нет партитуры или проекта Logic, эти музыкальные решения не утверждаются по одному MP3.
 
