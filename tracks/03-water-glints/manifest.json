@@ -1,0 +1,81 @@
+{
+  "project_release": "https://github.com/yogasnow/logic-recordings/releases/download/atastin-logic-v1/Atastin-Logic-Only.zip",
+  "project_sha256": "2f6e61083bb2203530796f79f1dca3a70165656671349ffe4f2710360faef2e1",
+  "files": [
+    {
+      "path": "Atastin-Passport.pdf",
+      "bytes": 97668,
+      "sha256": "5d89bd362d2bd3d09031d8448e64cea957d0b5988d2d111861c3915e0e97be5d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 20817,
+      "sha256": "9b6ac82cf55dc127f27e8ae5f9bf704a01531e03b232fa098a4c63134851a0a5"
+    },
+    {
+      "path": "audio.mp3",
+      "bytes": 9593208,
+      "sha256": "0bd30e82213135077a470e4d952fc6f17174b4f63915eabaeb70298018990e26"
+    },
+    {
+      "path": "data/bars.json",
+      "bytes": 20161,
+      "sha256": "49509d8d59e85b65be31f33cfc4efe825bd26c172f9c36769a2eca346636a937"
+    },
+    {
+      "path": "data/events.json",
+      "bytes": 71541,
+      "sha256": "b89e967469d8f4b5c1b8bf2924f1c4322110bc482e27d9af906faec4092fefdf"
+    },
+    {
+      "path": "data/render-map.json",
+      "bytes": 4803,
+      "sha256": "8fff046acf75cc647b957c0c3c78c4f4518b23c7810e7a876371ff001202e62f"
+    },
+    {
+      "path": "logic-project/README.md",
+      "bytes": 1107,
+      "sha256": "d2abe2223c9c955f0e54f7379ae316cc725ab10cdf09a1dbf0834acec6545efd"
+    },
+    {
+      "path": "music-code/README.md",
+      "bytes": 713,
+      "sha256": "f0506ce205b856917ea273856959a5af713a596a5c67e705677090f59322108d"
+    },
+    {
+      "path": "notes/README.md",
+      "bytes": 841,
+      "sha256": "048bc9ab3202d6d3f1303d5dabec433cd5bc5c73be17facb30bc7204273c286a"
+    },
+    {
+      "path": "scores/Atastin-64-Editable.mid",
+      "bytes": 16450,
+      "sha256": "7ed6cc5fc53f935a1252b567f36eb3b529ecedae75670dc36f30588c6ebf4f56"
+    },
+    {
+      "path": "scores/Atastin-Flute.musicxml",
+      "bytes": 38229,
+      "sha256": "435590d465e27212a8dc29d0742c70b89c3cb3f8c314bed64a7c1d80621800f2"
+    },
+    {
+      "path": "scores/Atastin-Flute.pdf",
+      "bytes": 38177,
+      "sha256": "6c7497bf509915fd476a6e9802ef3841c51985e04cca7779ba1560682c60ca3d"
+    },
+    {
+      "path": "scores/Atastin-Reading-Score.musicxml",
+      "bytes": 634430,
+      "sha256": "b94c29d099f6aefe77c7bc3c2f69dd4918a767312278e7c1d2b96b0b15c18704"
+    },
+    {
+      "path": "scores/Atastin-Reading-Score.pdf",
+      "bytes": 610529,
+      "sha256": "2e11f99cdc97e5a6c4779071e0444158be56c18019eddf72029d3191d6d03c27"
+    },
+    {
+      "path": "source/render_audio.py",
+      "bytes": 10887,
+      "sha256": "8ea0e9d55710205beafa3e85ac6fe0ff5f97469111b05dca5c0dc9a7428b359c"
+    }
+  ]
+}

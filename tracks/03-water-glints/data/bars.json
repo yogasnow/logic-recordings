@@ -1,0 +1,642 @@
+[
+  {
+    "bar": 1,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 0.0,
+    "rehearsal_section": "Виниловое пробуждение",
+    "intended_dynamic": "mp",
+    "direction": "Электронные стрелы, напряжение и расширение."
+  },
+  {
+    "bar": 2,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 3.636,
+    "rehearsal_section": "Виниловое пробуждение",
+    "intended_dynamic": "mp",
+    "direction": "Электронные стрелы, напряжение и расширение."
+  },
+  {
+    "bar": 3,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Bb",
+    "start_seconds": 7.273,
+    "rehearsal_section": "Звонкий ответ",
+    "intended_dynamic": "mp-mf",
+    "direction": "Стеклянный тембр; с 4-го перкуссия и басовый ансамбль."
+  },
+  {
+    "bar": 4,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 10.909,
+    "rehearsal_section": "Звонкий ответ",
+    "intended_dynamic": "mp-mf",
+    "direction": "Стеклянный тембр; с 4-го перкуссия и басовый ансамбль."
+  },
+  {
+    "bar": 5,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 14.545,
+    "rehearsal_section": "Первое нарушение",
+    "intended_dynamic": "mf",
+    "direction": "Бас, саб, уду; в 6-м хроматический сбой и разрешение."
+  },
+  {
+    "bar": 6,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Gm",
+    "start_seconds": 18.182,
+    "rehearsal_section": "Первое нарушение",
+    "intended_dynamic": "mf",
+    "direction": "Бас, саб, уду; в 6-м хроматический сбой и разрешение."
+  },
+  {
+    "bar": 7,
+    "meter": "5/4",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 21.818,
+    "rehearsal_section": "Первое нарушение",
+    "intended_dynamic": "mf",
+    "direction": "Бас, саб, уду; в 6-м хроматический сбой и разрешение."
+  },
+  {
+    "bar": 8,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 26.364,
+    "rehearsal_section": "Арфа на переднем плане",
+    "intended_dynamic": "mf; фон мягче",
+    "direction": "Опевание опорных тонов; сбой в 10-м."
+  },
+  {
+    "bar": 9,
+    "meter": "5/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 30.0,
+    "rehearsal_section": "Арфа на переднем плане",
+    "intended_dynamic": "mf; фон мягче",
+    "direction": "Опевание опорных тонов; сбой в 10-м."
+  },
+  {
+    "bar": 10,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Gm",
+    "start_seconds": 34.545,
+    "rehearsal_section": "Арфа на переднем плане",
+    "intended_dynamic": "mf; фон мягче",
+    "direction": "Опевание опорных тонов; сбой в 10-м."
+  },
+  {
+    "bar": 11,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 38.182,
+    "rehearsal_section": "Арфа на переднем плане",
+    "intended_dynamic": "mf; фон мягче",
+    "direction": "Опевание опорных тонов; сбой в 10-м."
+  },
+  {
+    "bar": 12,
+    "meter": "6/8",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 41.818,
+    "rehearsal_section": "Арфа на переднем плане",
+    "intended_dynamic": "mf; фон мягче",
+    "direction": "Опевание опорных тонов; сбой в 10-м."
+  },
+  {
+    "bar": 13,
+    "meter": "6/8",
+    "quarter_bpm": 66.0,
+    "harmony": "Bb",
+    "start_seconds": 44.545,
+    "rehearsal_section": "Подготовка диалога",
+    "intended_dynamic": "mf",
+    "direction": "Арфа, первые флейтовые краски; разрешение A7-Dm."
+  },
+  {
+    "bar": 14,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Gm",
+    "start_seconds": 47.273,
+    "rehearsal_section": "Подготовка диалога",
+    "intended_dynamic": "mf",
+    "direction": "Арфа, первые флейтовые краски; разрешение A7-Dm."
+  },
+  {
+    "bar": 15,
+    "meter": "5/4",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 50.909,
+    "rehearsal_section": "Подготовка диалога",
+    "intended_dynamic": "mf",
+    "direction": "Арфа, первые флейтовые краски; разрешение A7-Dm."
+  },
+  {
+    "bar": 16,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 55.455,
+    "rehearsal_section": "Подготовка диалога",
+    "intended_dynamic": "mf",
+    "direction": "Арфа, первые флейтовые краски; разрешение A7-Dm."
+  },
+  {
+    "bar": 17,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 59.091,
+    "rehearsal_section": "Флейта и арфа",
+    "intended_dynamic": "mf",
+    "direction": "Певучая линия, разреженные ответы арфы."
+  },
+  {
+    "bar": 18,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 62.727,
+    "rehearsal_section": "Флейта и арфа",
+    "intended_dynamic": "mf",
+    "direction": "Певучая линия, разреженные ответы арфы."
+  },
+  {
+    "bar": 19,
+    "meter": "6/8",
+    "quarter_bpm": 66.0,
+    "harmony": "Gm",
+    "start_seconds": 66.364,
+    "rehearsal_section": "Флейта и арфа",
+    "intended_dynamic": "mf",
+    "direction": "Певучая линия, разреженные ответы арфы."
+  },
+  {
+    "bar": 20,
+    "meter": "6/8",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 69.091,
+    "rehearsal_section": "Флейта и арфа",
+    "intended_dynamic": "mf",
+    "direction": "Певучая линия, разреженные ответы арфы."
+  },
+  {
+    "bar": 21,
+    "meter": "5/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 71.818,
+    "rehearsal_section": "Первая капля",
+    "intended_dynamic": "mf-mp",
+    "direction": "Фа с трелью фа-соль; доминанта и возвращение."
+  },
+  {
+    "bar": 22,
+    "meter": "6/8",
+    "quarter_bpm": 66.0,
+    "harmony": "Bb",
+    "start_seconds": 76.364,
+    "rehearsal_section": "Первая капля",
+    "intended_dynamic": "mf-mp",
+    "direction": "Фа с трелью фа-соль; доминанта и возвращение."
+  },
+  {
+    "bar": 23,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 79.091,
+    "rehearsal_section": "Первая капля",
+    "intended_dynamic": "mf-mp",
+    "direction": "Фа с трелью фа-соль; доминанта и возвращение."
+  },
+  {
+    "bar": 24,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 82.727,
+    "rehearsal_section": "Первая капля",
+    "intended_dynamic": "mf-mp",
+    "direction": "Фа с трелью фа-соль; доминанта и возвращение."
+  },
+  {
+    "bar": 25,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 86.364,
+    "rehearsal_section": "Ломаный рисунок",
+    "intended_dynamic": "mf-mp",
+    "direction": "Смещения, пропуски, ми-бемоль в ре; дыхание."
+  },
+  {
+    "bar": 26,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Gm",
+    "start_seconds": 90.0,
+    "rehearsal_section": "Ломаный рисунок",
+    "intended_dynamic": "mf-mp",
+    "direction": "Смещения, пропуски, ми-бемоль в ре; дыхание."
+  },
+  {
+    "bar": 27,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 93.636,
+    "rehearsal_section": "Ломаный рисунок",
+    "intended_dynamic": "mf-mp",
+    "direction": "Смещения, пропуски, ми-бемоль в ре; дыхание."
+  },
+  {
+    "bar": 28,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 97.273,
+    "rehearsal_section": "Ломаный рисунок",
+    "intended_dynamic": "mf-mp",
+    "direction": "Смещения, пропуски, ми-бемоль в ре; дыхание."
+  },
+  {
+    "bar": 29,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 100.909,
+    "rehearsal_section": "Блик блокфлейты",
+    "intended_dynamic": "mf-mp",
+    "direction": "Ля-фа; A7-Dm; удержание фа."
+  },
+  {
+    "bar": 30,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Bb",
+    "start_seconds": 104.545,
+    "rehearsal_section": "Блик блокфлейты",
+    "intended_dynamic": "mf-mp",
+    "direction": "Ля-фа; A7-Dm; удержание фа."
+  },
+  {
+    "bar": 31,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "A7",
+    "start_seconds": 108.182,
+    "rehearsal_section": "Блик блокфлейты",
+    "intended_dynamic": "mf-mp",
+    "direction": "Ля-фа; A7-Dm; удержание фа."
+  },
+  {
+    "bar": 32,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 111.818,
+    "rehearsal_section": "Блик блокфлейты",
+    "intended_dynamic": "mf-mp",
+    "direction": "Ля-фа; A7-Dm; удержание фа."
+  },
+  {
+    "bar": 33,
+    "meter": "6/8",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 115.455,
+    "rehearsal_section": "Сборка машинного грува",
+    "intended_dynamic": "mp-mf",
+    "direction": "Ля-фа, арфа отдыхает, низ набирает движение."
+  },
+  {
+    "bar": 34,
+    "meter": "6/8",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 118.182,
+    "rehearsal_section": "Сборка машинного грува",
+    "intended_dynamic": "mp-mf",
+    "direction": "Ля-фа, арфа отдыхает, низ набирает движение."
+  },
+  {
+    "bar": 35,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Bb",
+    "start_seconds": 120.909,
+    "rehearsal_section": "Сборка машинного грува",
+    "intended_dynamic": "mp-mf",
+    "direction": "Ля-фа, арфа отдыхает, низ набирает движение."
+  },
+  {
+    "bar": 36,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Gm",
+    "start_seconds": 124.545,
+    "rehearsal_section": "Сборка машинного грува",
+    "intended_dynamic": "mp-mf",
+    "direction": "Ля-фа, арфа отдыхает, низ набирает движение."
+  },
+  {
+    "bar": 37,
+    "meter": "5/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Dm",
+    "start_seconds": 128.182,
+    "rehearsal_section": "Сборка машинного грува",
+    "intended_dynamic": "mp-mf",
+    "direction": "Ля-фа, арфа отдыхает, низ набирает движение."
+  },
+  {
+    "bar": 38,
+    "meter": "4/4",
+    "quarter_bpm": 66.0,
+    "harmony": "Gm",
+    "start_seconds": 132.727,
+    "rehearsal_section": "Сборка машинного грува",
+    "intended_dynamic": "mp-mf",
+    "direction": "Ля-фа, арфа отдыхает, низ набирает движение."
+  },
+  {
+    "bar": 39,
+    "meter": "5/4",
+    "quarter_bpm": 68.0,
+    "harmony": "A7",
+    "start_seconds": 136.364,
+    "rehearsal_section": "Сборка машинного грува",
+    "intended_dynamic": "mp-mf",
+    "direction": "Ля-фа, арфа отдыхает, низ набирает движение."
+  },
+  {
+    "bar": 40,
+    "meter": "4/4",
+    "quarter_bpm": 50,
+    "harmony": "Dm",
+    "start_seconds": 140.775,
+    "rehearsal_section": "Звенящая пустота",
+    "intended_dynamic": "тихое раскрытие",
+    "direction": "Largo; бас, саб, бочка и уду молчат; фа, арфа, эхо."
+  },
+  {
+    "bar": 41,
+    "meter": "4/4",
+    "quarter_bpm": 50,
+    "harmony": "Dm",
+    "start_seconds": 145.575,
+    "rehearsal_section": "Звенящая пустота",
+    "intended_dynamic": "тихое раскрытие",
+    "direction": "Largo; бас, саб, бочка и уду молчат; фа, арфа, эхо."
+  },
+  {
+    "bar": 42,
+    "meter": "4/4",
+    "quarter_bpm": 71.75,
+    "harmony": "Dm",
+    "start_seconds": 150.375,
+    "rehearsal_section": "Возвращение плотного низа",
+    "intended_dynamic": "к mf",
+    "direction": "Постепенный вход, подъём регистра и разрешение в 48-м."
+  },
+  {
+    "bar": 43,
+    "meter": "6/8",
+    "quarter_bpm": 73.0,
+    "harmony": "Bb",
+    "start_seconds": 153.72,
+    "rehearsal_section": "Возвращение плотного низа",
+    "intended_dynamic": "к mf",
+    "direction": "Постепенный вход, подъём регистра и разрешение в 48-м."
+  },
+  {
+    "bar": 44,
+    "meter": "5/4",
+    "quarter_bpm": 74.25,
+    "harmony": "Gm",
+    "start_seconds": 156.186,
+    "rehearsal_section": "Возвращение плотного низа",
+    "intended_dynamic": "к mf",
+    "direction": "Постепенный вход, подъём регистра и разрешение в 48-м."
+  },
+  {
+    "bar": 45,
+    "meter": "4/4",
+    "quarter_bpm": 75.5,
+    "harmony": "Dm",
+    "start_seconds": 160.227,
+    "rehearsal_section": "Возвращение плотного низа",
+    "intended_dynamic": "к mf",
+    "direction": "Постепенный вход, подъём регистра и разрешение в 48-м."
+  },
+  {
+    "bar": 46,
+    "meter": "5/4",
+    "quarter_bpm": 76.75,
+    "harmony": "Gm",
+    "start_seconds": 163.405,
+    "rehearsal_section": "Возвращение плотного низа",
+    "intended_dynamic": "к mf",
+    "direction": "Постепенный вход, подъём регистра и разрешение в 48-м."
+  },
+  {
+    "bar": 47,
+    "meter": "4/4",
+    "quarter_bpm": 78.0,
+    "harmony": "A7",
+    "start_seconds": 167.314,
+    "rehearsal_section": "Возвращение плотного низа",
+    "intended_dynamic": "к mf",
+    "direction": "Постепенный вход, подъём регистра и разрешение в 48-м."
+  },
+  {
+    "bar": 48,
+    "meter": "4/4",
+    "quarter_bpm": 79.25,
+    "harmony": "Dm",
+    "start_seconds": 170.391,
+    "rehearsal_section": "Возвращение плотного низа",
+    "intended_dynamic": "к mf",
+    "direction": "Постепенный вход, подъём регистра и разрешение в 48-м."
+  },
+  {
+    "bar": 49,
+    "meter": "5/4",
+    "quarter_bpm": 68,
+    "harmony": "Dm",
+    "start_seconds": 173.419,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 50,
+    "meter": "6/8",
+    "quarter_bpm": 62,
+    "harmony": "Bb",
+    "start_seconds": 177.831,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 51,
+    "meter": "4/4",
+    "quarter_bpm": 66,
+    "harmony": "Dm",
+    "start_seconds": 180.734,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 52,
+    "meter": "5/4",
+    "quarter_bpm": 58,
+    "harmony": "Gm",
+    "start_seconds": 184.371,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 53,
+    "meter": "6/8",
+    "quarter_bpm": 64,
+    "harmony": "Dm",
+    "start_seconds": 189.543,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 54,
+    "meter": "4/4",
+    "quarter_bpm": 60,
+    "harmony": "Bb",
+    "start_seconds": 192.356,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 55,
+    "meter": "5/4",
+    "quarter_bpm": 56,
+    "harmony": "A7",
+    "start_seconds": 196.356,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 56,
+    "meter": "4/4",
+    "quarter_bpm": 60,
+    "harmony": "Dm",
+    "start_seconds": 201.713,
+    "rehearsal_section": "Рассыпание мотива",
+    "intended_dynamic": "mf-p",
+    "direction": "Rubato; ля-фа между флейтой и арфой, низ уходит."
+  },
+  {
+    "bar": 57,
+    "meter": "4/4",
+    "quarter_bpm": 66,
+    "harmony": "Dm",
+    "start_seconds": 205.713,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  },
+  {
+    "bar": 58,
+    "meter": "6/8",
+    "quarter_bpm": 66,
+    "harmony": "Bb",
+    "start_seconds": 209.349,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  },
+  {
+    "bar": 59,
+    "meter": "4/4",
+    "quarter_bpm": 66,
+    "harmony": "Gm",
+    "start_seconds": 212.076,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  },
+  {
+    "bar": 60,
+    "meter": "5/4",
+    "quarter_bpm": 66,
+    "harmony": "Dm",
+    "start_seconds": 215.713,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  },
+  {
+    "bar": 61,
+    "meter": "4/4",
+    "quarter_bpm": 66,
+    "harmony": "A7",
+    "start_seconds": 220.258,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  },
+  {
+    "bar": 62,
+    "meter": "4/4",
+    "quarter_bpm": 66,
+    "harmony": "Dm",
+    "start_seconds": 223.895,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  },
+  {
+    "bar": 63,
+    "meter": "4/4",
+    "quarter_bpm": 66,
+    "harmony": "Dm",
+    "start_seconds": 227.531,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  },
+  {
+    "bar": 64,
+    "meter": "4/4",
+    "quarter_bpm": 66,
+    "harmony": "Dm",
+    "start_seconds": 231.167,
+    "rehearsal_section": "Послевкусие",
+    "intended_dynamic": "p-pp",
+    "direction": "Adagio; без бочки, тоническое завершение и затухание."
+  }
+]
