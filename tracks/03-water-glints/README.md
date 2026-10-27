@@ -1,5 +1,7 @@
 # water glints — «Вода мерцает»
 
+**Одна работа — один маршрут:** [задача в доске](https://github.com/yogasnow/logic-recordings/issues/1) · [исходный проект Logic](logic-project/README.md) · [авторские заметки / ChatGPT](notes/README.md) · [путь к музыкальному коду](music-code/README.md).
+
 ## Паспорт произведения
 
 | Поле | Данные сейчас |
