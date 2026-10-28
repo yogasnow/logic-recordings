@@ -1,5 +1,7 @@
 # Logic Recordings
 
+![Water Glints — обложка](tracks/03-water-glints/cover.jpg)
+
 Музыкальные произведения Снежаны, созданные в Logic Pro. У каждого трека — своя папка с аудио (когда оно есть) и краткой карточкой для будущего авторского разбора. Это отдельный проект, не часть [Live Coding](https://github.com/yogasnow/live-coding).
 
 **Повторяемый маршрут:** [от собственных нот к учебному коду](COMPOSITION-TO-CODE.md) → [шаблон](templates/new-composition/README.md) → [план произведения 04](tracks/04-next-composition/README.md).
