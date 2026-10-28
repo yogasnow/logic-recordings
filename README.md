@@ -2,7 +2,7 @@
 
 Музыкальные произведения Снежаны, созданные в Logic Pro. У каждого трека — своя папка с аудио (когда оно есть) и краткой карточкой для будущего авторского разбора. Это отдельный проект, не часть [Live Coding](https://github.com/yogasnow/live-coding).
 
-**Повторяемый маршрут:** [от собственных нот к учебному коду](COMPOSITION-TO-CODE.md) → [шаблон следующего произведения](templates/new-composition/README.md).
+**Повторяемый маршрут:** [от собственных нот к учебному коду](COMPOSITION-TO-CODE.md) → [шаблон](templates/new-composition/README.md) → [план произведения 04](tracks/04-next-composition/README.md).
 
 **Текущая практика:** [замысел и исходные материалы](LEARNING-PATH.md) → [паспорт Атастин / Water Glints](tracks/03-water-glints/README.md) → авторская проверка → следующая версия.
 
@@ -11,6 +11,7 @@
 | Am Dialogue — Leitmotif Mix 01 | [MP3 · 1:19](tracks/01-am-dialogue/audio.mp3) | [Открыть](tracks/01-am-dialogue/README.md) |
 | Velvet and Sky — Three Minute Ascent | [MP3 · 3:03](tracks/02-velvet-and-sky/audio.mp3) | [Открыть](tracks/02-velvet-and-sky/README.md) |
 | Атастин / Water Glints — «Блик на воде» | [MP3 · 4:00](tracks/03-water-glints/audio.mp3) | [Паспорт, проект Logic и партитуры](tracks/03-water-glints/README.md) |
+| Произведение 04 — название ожидается | Ещё не создано | [Пошаговый план](tracks/04-next-composition/README.md) |
 
 **Открытый TypeScript:** [аранжировка по нотным событиям](music-code/README.md) · [права на код](CODE-LICENSE.md). Для Water Glints уже работает на подтверждённых событиях; для двух ранних записей подготовлены карточки ввода нот без вымышленной транскрипции.
 
