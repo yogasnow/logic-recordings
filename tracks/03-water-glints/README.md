@@ -9,6 +9,7 @@
 ## Всё произведение в одной папке
 
 - [Слушать и скачать MP3](audio.mp3) — готовый микс, 320 кбит/с, около 4 минут.
+- [Слушать опубликованный трек в SoundCloud — Water Glints - Dense Bass](https://soundcloud.com/karmasnow/water-glints-dense-bass).
 - [Скачать проект Logic Pro, ZIP 110 МБ](https://github.com/yogasnow/logic-recordings/releases/download/atastin-logic-v1/Atastin-Logic-Only.zip) — только .logicx со встроенными WAV и MIDI.
 - [Паспорт PDF](Atastin-Passport.pdf).
 - [Полная рабочая нотная редакция PDF](scores/Atastin-Reading-Score.pdf) — 37 страниц A3.
