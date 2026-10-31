@@ -16,6 +16,7 @@
 | Velvet and Sky — Three Minute Ascent | [MP3 · 3:03](tracks/02-velvet-and-sky/audio.mp3) | [Открыть](tracks/02-velvet-and-sky/README.md) |
 | Атастин / Water Glints — «Блик на воде» | [MP3 · 4:00](tracks/03-water-glints/audio.mp3) | [Паспорт, проект Logic и партитуры](tracks/03-water-glints/README.md) |
 | Warm Fog / Cycle I | [SoundCloud](https://on.soundcloud.com/n107quVRbQOH7SuTMX) | [Паспорт проекта](tracks/04-next-composition/PASSPORT.md) |
+| Warm Fog / Cycle II | [SoundCloud](https://soundcloud.com/karmasnow/warm-fog-cycle-ii) | [Описание и состояние проекта](tracks/04-next-composition/cycle-ii/README.md) |
 
 **Открытый TypeScript:** [аранжировка по нотным событиям](music-code/README.md) · [права на код](CODE-LICENSE.md). Для Water Glints уже работает на подтверждённых событиях; для двух ранних записей подготовлены карточки ввода нот без вымышленной транскрипции.
 
