@@ -17,6 +17,7 @@
 | Атастин / Water Glints — «Блик на воде» | [MP3 · 4:00](tracks/03-water-glints/audio.mp3) | [Паспорт, проект Logic и партитуры](tracks/03-water-glints/README.md) |
 | Warm Fog / Cycle I | [SoundCloud](https://on.soundcloud.com/n107quVRbQOH7SuTMX) | [Паспорт проекта](tracks/04-next-composition/PASSPORT.md) |
 | Warm Fog / Cycle II | [SoundCloud](https://soundcloud.com/karmasnow/warm-fog-cycle-ii) | [Описание и состояние проекта](tracks/04-next-composition/cycle-ii/README.md) |
+| Warm Fog / Cycle III | Ссылка ожидается | [Ансамблевая динамика и мастерская](tracks/04-next-composition/cycle-iii/README.md) |
 
 **Открытый TypeScript:** [аранжировка по нотным событиям](music-code/README.md) · [права на код](CODE-LICENSE.md). Для Water Glints уже работает на подтверждённых событиях; для двух ранних записей подготовлены карточки ввода нот без вымышленной транскрипции.
 
