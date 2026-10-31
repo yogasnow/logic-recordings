@@ -10,7 +10,7 @@
 
 - [Cycle I — паспорт и ссылка на запись](PASSPORT.md).
 - [Cycle II — запись на SoundCloud и состояние полного проекта](cycle-ii/README.md).
-- [Cycle III — ансамблевая динамика и будущая мастерская Logic + TypeScript](cycle-iii/README.md).
+- [Cycle III — Jam Code workshop](cycle-iii/README.md) · [SoundCloud](https://soundcloud.com/karmasnow/warm-fog-cycle-iii) · [Passport](cycle-iii/PASSPORT.md).
 
 ## Звуковой замысел · 28 октября 2026
 
