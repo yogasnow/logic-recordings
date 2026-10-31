@@ -6,7 +6,7 @@
 
 **Повторяемый маршрут:** [от собственных нот к учебному коду](COMPOSITION-TO-CODE.md) → [шаблон](templates/new-composition/README.md) → [план произведения 04](tracks/04-next-composition/README.md).
 
-**Сейчас в работе:** [Warm Fog — замысел и первая сессия в Logic](tracks/04-next-composition/README.md). Звуковой эскиз и обложка произведения ещё проходят авторскую проверку.
+**Сейчас в работе:** [Warm Fog / Cycle I — паспорт проекта](tracks/04-next-composition/README.md). Добавлены паспорт от 30 октября и авторская ссылка на SoundCloud; исходники и аудиофайлы этой выгрузкой не добавлены.
 
 **Предыдущий цикл:** [Water Glints — запись, партитура и открытый код](tracks/03-water-glints/README.md). Материалы сохранены для возвращения к аранжировке и дополнительным партиям.
 
@@ -15,7 +15,7 @@
 | Am Dialogue — Leitmotif Mix 01 | [MP3 · 1:19](tracks/01-am-dialogue/audio.mp3) | [Открыть](tracks/01-am-dialogue/README.md) |
 | Velvet and Sky — Three Minute Ascent | [MP3 · 3:03](tracks/02-velvet-and-sky/audio.mp3) | [Открыть](tracks/02-velvet-and-sky/README.md) |
 | Атастин / Water Glints — «Блик на воде» | [MP3 · 4:00](tracks/03-water-glints/audio.mp3) | [Паспорт, проект Logic и партитуры](tracks/03-water-glints/README.md) |
-| Warm Fog — рабочий эскиз | Аудио ещё не опубликовано | [Замысел и первая сессия](tracks/04-next-composition/README.md) |
+| Warm Fog / Cycle I | [SoundCloud](https://on.soundcloud.com/n107quVRbQOH7SuTMX) | [Паспорт проекта](tracks/04-next-composition/PASSPORT.md) |
 
 **Открытый TypeScript:** [аранжировка по нотным событиям](music-code/README.md) · [права на код](CODE-LICENSE.md). Для Water Glints уже работает на подтверждённых событиях; для двух ранних записей подготовлены карточки ввода нот без вымышленной транскрипции.
 
