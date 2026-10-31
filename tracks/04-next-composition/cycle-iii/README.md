@@ -6,15 +6,21 @@
 
 ## Musical direction
 
-The three cycles form an unfolding musical idea, in the author’s account:
+### Latest arrangement clarification
 
-1. **Cycle I:** an instrumental pattern emerges; the voice enters cautiously near the end.
-2. **Cycle II:** the voice comes forward, answered by electronic texture and the ensemble.
-3. **Cycle III:** these lines meet in a shared ensemble breath.
+The author’s latest description distinguishes the three cycles by their leading role:
+
+1. **Cycle I:** the voice is present alongside the instrumental pattern.
+2. **Cycle II:** the voice takes the solo lead.
+3. **Cycle III:** the musical foundation takes a prominent leading role.
+
+This clarification takes precedence over the earlier narrative below. It is the author’s account, not an independent listening analysis.
 
 The image of a cosmic tree growing from a point of light opens the work toward new parts: each branch is a possible contribution, each leaf a continuation of a musical thought. Further live-instrument contributions are planned; this imagery is not a verified inventory of instruments in the recording. “Живая нить” (“Living Thread”) is an image for a possible next movement, not an established release title. The current concept name is **Jam Code**.
 
 ### Author’s note · original Russian
+
+An earlier creative narrative, preserved in its original wording; the current arrangement roles are clarified above.
 
 > «В первом цикле возник узор. Во втором к нему вышел голос. Третий — место их встречи: электронные волны, человеческое дыхание и живые инструменты складываются в один ансамбль. Космическое дерево растёт из световой точки: каждая ветвь — возможная новая партия, каждый лист — продолжение музыкальной мысли».
 
