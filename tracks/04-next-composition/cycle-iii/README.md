@@ -6,7 +6,19 @@
 
 ## Musical direction
 
-The third and concluding cycle of Warm Fog explores changing performance dynamics and a clearer sense of ensemble interplay. Snezhana describes earlier cycles as placing the voice further forward or leaving it out; Cycle III brings attention to the interaction of voice and instrumental parts. This is the author’s description, not an independently verified listening analysis.
+The three cycles form an unfolding musical idea, in the author’s account:
+
+1. **Cycle I:** an instrumental pattern emerges; the voice enters cautiously near the end.
+2. **Cycle II:** the voice comes forward, answered by electronic texture and the ensemble.
+3. **Cycle III:** these lines meet in a shared ensemble breath.
+
+The image of a cosmic tree growing from a point of light opens the work toward new parts: each branch is a possible contribution, each leaf a continuation of a musical thought. Further live-instrument contributions are planned; this imagery is not a verified inventory of instruments in the recording. “Живая нить” (“Living Thread”) is an image for a possible next movement, not an established release title. The current concept name is **Jam Code**.
+
+### Author’s note · original Russian
+
+> «В первом цикле возник узор. Во втором к нему вышел голос. Третий — место их встречи: электронные волны, человеческое дыхание и живые инструменты складываются в один ансамбль. Космическое дерево растёт из световой точки: каждая ветвь — возможная новая партия, каждый лист — продолжение музыкальной мысли».
+
+This is the author’s narrative and creative image, not an independently verified listening analysis or a claim that the planned live-instrument additions are already recorded.
 
 ## Available materials
 
